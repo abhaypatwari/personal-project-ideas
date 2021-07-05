@@ -1,2 +1,2 @@
 1) youtube university
-2) lyrics eliminator
+2) vocal separation using librosa or in matlab
