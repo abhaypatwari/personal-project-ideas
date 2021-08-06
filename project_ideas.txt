@@ -1,3 +1,4 @@
 1) youtube university
-2) vocal separation using librosa or in matlab
+2) vocal separation
 3) STFT visualizer- highlights time-frequency uncertainty
+4) chorus- sync speech from multiple subjects- DTW & TSM
